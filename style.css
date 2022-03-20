@@ -21,6 +21,7 @@ nav{
    display: flex;
    padding-left: 130px;
    padding-top: 50px;
+   margin-right: 20px;
 }
 .form{
     width: 400px;
